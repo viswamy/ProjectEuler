@@ -14,7 +14,7 @@ for i in range(1, 1000):
         totalSum += i
   
 f = open("output.txt","w")
-f.write(totalSum.__str__())
+f.write(totalSum.__str__()) 
 
 #End of Program
 
